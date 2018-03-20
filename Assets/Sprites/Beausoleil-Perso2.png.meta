@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 0354f95b8d6976d4aa6dbc45b9f10e4c
+timeCreated: 1463163917
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beausoleil-Perso2_0
+    21300002: Beausoleil-Perso2_1
+    21300004: Beausoleil-Perso2_2
+    21300006: Beausoleil-Perso2_3
+    21300008: Beausoleil-Perso2_4
+    21300010: Beausoleil-Perso2_5
+    21300012: Beausoleil-Perso2_6
+    21300014: Beausoleil-Perso2_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Beausoleil-Perso2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 342
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 72}
+        - {x: -28, y: 85}
+        - {x: -34, y: 46}
+        - {x: -35, y: 26}
+        - {x: -29, y: 5}
+        - {x: 46, y: 9}
+        - {x: 48, y: 19}
+        - {x: 42, y: 90}
+        - {x: 171, y: 207}
+        - {x: 171, y: 232}
+        - {x: 36, y: 268}
+        - {x: 27, y: 408}
+        - {x: 24, y: 409}
+        - {x: -127, y: 409}
+        - {x: -157, y: 301}
+        - {x: -171, y: 239}
+        - {x: -171, y: 177}
+        - {x: -137, y: 143}
+        - {x: -120, y: 7}
+        - {x: -91, y: 0}
+        - {x: -29, y: 0}
+        - {x: -29, y: 2}
+        - {x: -33, y: 18}
+        - {x: -51, y: 34}
+    - name: Beausoleil-Perso2_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 975
+        width: 342
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 227}
+        - {x: -2, y: 225}
+        - {x: 27, y: 144}
+        - {x: 82, y: 145}
+        - {x: 160, y: 197}
+        - {x: 171, y: 221}
+        - {x: 171, y: 246}
+        - {x: 2, y: 300}
+        - {x: 42, y: 333}
+        - {x: -6, y: 410}
+        - {x: -116, y: 410}
+        - {x: -137, y: 401}
+        - {x: -123, y: 273}
+        - {x: -171, y: 275}
+        - {x: -171, y: 163}
+        - {x: -124, y: 125}
+        - {x: -140, y: 23}
+        - {x: -96, y: 0}
+        - {x: -38, y: 0}
+        - {x: 94, y: 16}
+        - {x: 77, y: 124}
+        - {x: 26, y: 141}
+        - {x: -2, y: 199}
+    - name: Beausoleil-Perso2_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 988
+        width: 342
+        height: 407
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 171, y: 209}
+        - {x: 171, y: 251}
+        - {x: 1, y: 289}
+        - {x: 32, y: 335}
+        - {x: -10, y: 407}
+        - {x: -106, y: 407}
+        - {x: -128, y: 396}
+        - {x: -161, y: 270}
+        - {x: -171, y: 245}
+        - {x: -171, y: 164}
+        - {x: -139, y: 143}
+        - {x: -164, y: 40}
+        - {x: -126, y: 7}
+        - {x: -112, y: 0}
+        - {x: -103, y: 0}
+        - {x: -95, y: 2}
+        - {x: -97, y: 22}
+        - {x: -67, y: 59}
+        - {x: -15, y: 0}
+        - {x: 38, y: 0}
+        - {x: 60, y: 3}
+        - {x: 65, y: 22}
+        - {x: 86, y: 134}
+    - name: Beausoleil-Perso2_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 512
+        width: 342
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 171, y: 219}
+        - {x: 171, y: 260}
+        - {x: 57, y: 213}
+        - {x: 9, y: 288}
+        - {x: 45, y: 349}
+        - {x: -12, y: 420}
+        - {x: -104, y: 420}
+        - {x: -114, y: 416}
+        - {x: -134, y: 385}
+        - {x: -120, y: 288}
+        - {x: -101, y: 285}
+        - {x: -96, y: 289}
+        - {x: -85, y: 293}
+        - {x: -114, y: 277}
+        - {x: -150, y: 262}
+        - {x: -171, y: 241}
+        - {x: -171, y: 191}
+        - {x: -134, y: 155}
+        - {x: -108, y: 7}
+        - {x: -47, y: 0}
+        - {x: 24, y: 0}
+        - {x: 26, y: 1}
+        - {x: 21, y: 144}
+        - {x: 127, y: 157}
+    - name: Beausoleil-Perso2_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 517
+        width: 342
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: 198}
+        - {x: 171, y: 215}
+        - {x: 171, y: 251}
+        - {x: 61, y: 229}
+        - {x: 35, y: 343}
+        - {x: 1, y: 416}
+        - {x: -122, y: 416}
+        - {x: -133, y: 362}
+        - {x: -118, y: 281}
+        - {x: -98, y: 282}
+        - {x: -96, y: 285}
+        - {x: -92, y: 282}
+        - {x: -164, y: 264}
+        - {x: -171, y: 243}
+        - {x: -171, y: 172}
+        - {x: -80, y: 97}
+        - {x: -114, y: 38}
+        - {x: -71, y: 0}
+        - {x: -3, y: 0}
+        - {x: 48, y: 18}
+        - {x: 21, y: 135}
+        - {x: 16, y: 146}
+        - {x: 70, y: 146}
+    - name: Beausoleil-Perso2_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 522
+        width: 342
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 151}
+        - {x: 82, y: 149}
+        - {x: 168, y: 202}
+        - {x: 171, y: 210}
+        - {x: 171, y: 259}
+        - {x: 9, y: 292}
+        - {x: 26, y: 339}
+        - {x: 8, y: 394}
+        - {x: -23, y: 416}
+        - {x: -115, y: 416}
+        - {x: -131, y: 376}
+        - {x: -171, y: 287}
+        - {x: -171, y: 163}
+        - {x: -169, y: 153}
+        - {x: -155, y: 91}
+        - {x: -117, y: 14}
+        - {x: -96, y: 13}
+        - {x: -67, y: 2}
+        - {x: -61, y: 0}
+        - {x: 12, y: 0}
+        - {x: 32, y: 11}
+        - {x: -8, y: 48}
+        - {x: 20, y: 137}
+    - name: Beausoleil-Perso2_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 343
+        height: 419
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 171.5, y: 210}
+        - {x: 171.5, y: 250}
+        - {x: 104.5, y: 237}
+        - {x: 38.5, y: 351}
+        - {x: -18.5, y: 419}
+        - {x: -108.5, y: 419}
+        - {x: -137.5, y: 383}
+        - {x: -118.5, y: 286}
+        - {x: -108.5, y: 285}
+        - {x: -95.5, y: 289}
+        - {x: -150.5, y: 264}
+        - {x: -171.5, y: 251}
+        - {x: -171.5, y: 174}
+        - {x: -108.5, y: 134}
+        - {x: -93.5, y: 137}
+        - {x: -109.5, y: 34}
+        - {x: -81.5, y: 0}
+        - {x: -19.5, y: 0}
+        - {x: -9.5, y: 4}
+        - {x: -20.5, y: 25}
+        - {x: 87.5, y: 127}
+    - name: Beausoleil-Perso2_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 10
+        width: 342
+        height: 420
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 150}
+        - {x: 157, y: 209}
+        - {x: 171, y: 233}
+        - {x: 171, y: 257}
+        - {x: 38, y: 275}
+        - {x: -4, y: 293}
+        - {x: 25, y: 357}
+        - {x: 0, y: 394}
+        - {x: -26, y: 420}
+        - {x: -99, y: 420}
+        - {x: -112, y: 416}
+        - {x: -131, y: 381}
+        - {x: -165, y: 279}
+        - {x: -171, y: 248}
+        - {x: -171, y: 182}
+        - {x: -94, y: 90}
+        - {x: -116, y: 15}
+        - {x: -62, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 10}
+        - {x: 23, y: 115}
+        - {x: 17, y: 150}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
